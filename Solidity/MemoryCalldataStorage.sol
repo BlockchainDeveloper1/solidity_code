@@ -14,8 +14,9 @@ contract StorageMemoryCalldata{
     //Memory variable is temporary which can be modified means lifetime can be untill an external function call
 
     function addName(string memory _Name)public{
-       Name = _Name;
+       
        _Name = "SANJANA";
+       Name = _Name;
     }
 
     //Calldata variable is temporary which can not be modified means lifetime exist uint an external function call
