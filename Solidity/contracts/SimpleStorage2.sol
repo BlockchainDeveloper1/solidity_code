@@ -6,5 +6,5 @@ contract SimpleStorage{
     /*
     //Array
     
-     */
+    */
 }
