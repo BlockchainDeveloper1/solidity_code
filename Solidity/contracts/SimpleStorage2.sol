@@ -4,7 +4,7 @@ pragma solidity ^0.8.29;
 
 contract SimpleStorage{
     /*
-    //Array : Simply array is set of elements of same da
+    //Array : Simply array is set of elements of same dat
     
 
     */
