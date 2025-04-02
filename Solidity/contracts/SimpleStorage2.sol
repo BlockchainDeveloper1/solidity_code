@@ -6,7 +6,7 @@ contract SimpleStorage{
     /*
     //Array : Simply array is set of elements of same data type.
 
-    string[] pu
+    string[] pub
     
 
     */
