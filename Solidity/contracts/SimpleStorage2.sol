@@ -6,7 +6,7 @@ contract SimpleStorage{
     /*
     //Array : Simply array is set of elements of same data type.
 
-    string[] public names = ["jo"]
+    string[] public names = ["joy"]
     
 
     */
