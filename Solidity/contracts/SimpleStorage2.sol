@@ -7,7 +7,8 @@ contract SimpleStorage{
     //Array : Simply array is set of elements of same data type.
 
     string[] public names = ["joy" , "jenni" , "peter" , "hero" ] ; //This is an example of dynamic array.
-      
+
+    s  
     
 
     */
