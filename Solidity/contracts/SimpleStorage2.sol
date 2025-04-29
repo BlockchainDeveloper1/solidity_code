@@ -8,7 +8,7 @@ contract SimpleStorage{
 
     string[] public names = ["joy" , "jenni" , "peter" , "hero" ] ; //This is an example of dynamic array.
 
-    string[4] private pets = [ "Dog" , "Cat" , "Duck" , "Horse" ] ; //This is an example of fixed         
+    string[4] private pets = [ "Dog" , "Cat" , "Duck" , "Horse" ] ; //This is an example of fixed          
     
 
     */
