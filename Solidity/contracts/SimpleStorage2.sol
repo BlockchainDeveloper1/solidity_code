@@ -10,7 +10,7 @@ contract SimpleStorage{
 
     string[4] private pets = [ "Dog" , "Cat" , "Duck" , "Horse" ] ; //This is an example of fixed array         
     
-    //Function to                                                                                                                                                                                                                                                                                                     
+    //Function to                                                                                                                                                                                                                                                                                                      
     
     */
 }
